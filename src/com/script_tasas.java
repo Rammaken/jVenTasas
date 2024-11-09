@@ -1,7 +1,6 @@
 package com;
 
 import java.security.cert.X509Certificate;
-import java.text.DecimalFormat;
 import javax.net.ssl.HttpsURLConnection;
 import javax.net.ssl.SSLContext;
 import javax.net.ssl.TrustManager;
